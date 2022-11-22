@@ -1,6 +1,6 @@
 using System;
 
-// 2022-11-19 06:23:02.805509 UTC
+// 2022-11-22 15:54:07.766069500 UTC
 
 namespace hazedumper
 {
@@ -144,7 +144,7 @@ namespace hazedumper
         public const Int32 dwWeaponTableIndex = 0x326C;
         public const Int32 dwbSendPackets = 0xDCF92;
         public const Int32 dwppDirect3DDevice9 = 0xA62C0;
-        public const Int32 find_hud_element = 0x2767E560;
+        public const Int32 find_hud_element = 0x53EEE560;
         public const Int32 force_update_spectator_glow = 0x3D7CFA;
         public const Int32 interface_engine_cvar = 0x3FA9C;
         public const Int32 is_c4_owner = 0x3E5500;
