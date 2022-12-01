@@ -1,7 +1,7 @@
 #pragma once
 #include <cstddef>
 
-// 2022-11-29 09:49:55.817903100 UTC
+// 2022-12-01 16:59:11.806052400 UTC
 
 namespace hazedumper {
 namespace netvars {
@@ -142,7 +142,7 @@ constexpr ::std::ptrdiff_t dwWeaponTable = 0x525B524;
 constexpr ::std::ptrdiff_t dwWeaponTableIndex = 0x326C;
 constexpr ::std::ptrdiff_t dwbSendPackets = 0xDCF92;
 constexpr ::std::ptrdiff_t dwppDirect3DDevice9 = 0xA62C0;
-constexpr ::std::ptrdiff_t find_hud_element = 0x5069E560;
+constexpr ::std::ptrdiff_t find_hud_element = 0x50AEE560;
 constexpr ::std::ptrdiff_t force_update_spectator_glow = 0x3D7CFA;
 constexpr ::std::ptrdiff_t interface_engine_cvar = 0x3FA9C;
 constexpr ::std::ptrdiff_t is_c4_owner = 0x3E5500;
