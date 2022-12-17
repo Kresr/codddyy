@@ -1,4 +1,4 @@
-timestamp = 1671023087
+timestamp = 1671263956
 
 [signatures]
 anim_overlays = 10640
@@ -40,9 +40,9 @@ dwSetClanTag = 580224
 dwViewMatrix = 81726788
 dwWeaponTable = 86369732
 dwWeaponTableIndex = 12908
-dwbSendPackets = 905234
+dwbSendPackets = 905330
 dwppDirect3DDevice9 = 680640
-find_hud_element = 641399760
+find_hud_element = 1354496976
 force_update_spectator_glow = 4035018
 interface_engine_cvar = 260764
 is_c4_owner = 4090336
