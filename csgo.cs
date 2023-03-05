@@ -1,6 +1,6 @@
 using System;
 
-// 2023-01-23 13:52:37.515290200 UTC
+// 2023-03-05 10:45:39.916302700 UTC
 
 namespace hazedumper
 {
@@ -109,7 +109,7 @@ namespace hazedumper
         public const Int32 clientstate_last_outgoing_command = 0x4D2C;
         public const Int32 clientstate_net_channel = 0x9C;
         public const Int32 convar_name_hash_table = 0x301A0;
-        public const Int32 dwClientState = 0x59F194;
+        public const Int32 dwClientState = 0x59F19C;
         public const Int32 dwClientState_GetLocalPlayer = 0x180;
         public const Int32 dwClientState_IsHLTV = 0x4D48;
         public const Int32 dwClientState_Map = 0x28C;
@@ -118,33 +118,33 @@ namespace hazedumper
         public const Int32 dwClientState_PlayerInfo = 0x52C0;
         public const Int32 dwClientState_State = 0x108;
         public const Int32 dwClientState_ViewAngles = 0x4D90;
-        public const Int32 dwEntityList = 0x4DFFF14;
-        public const Int32 dwForceAttack = 0x322DD10;
-        public const Int32 dwForceAttack2 = 0x322DD1C;
-        public const Int32 dwForceBackward = 0x322DD40;
-        public const Int32 dwForceForward = 0x322DD34;
-        public const Int32 dwForceJump = 0x52BBC9C;
-        public const Int32 dwForceLeft = 0x322DD4C;
-        public const Int32 dwForceRight = 0x322DD58;
+        public const Int32 dwEntityList = 0x4DFFEF4;
+        public const Int32 dwForceAttack = 0x322DCFC;
+        public const Int32 dwForceAttack2 = 0x322DD08;
+        public const Int32 dwForceBackward = 0x322DD38;
+        public const Int32 dwForceForward = 0x322DD2C;
+        public const Int32 dwForceJump = 0x52BBC7C;
+        public const Int32 dwForceLeft = 0x322DD44;
+        public const Int32 dwForceRight = 0x322DD50;
         public const Int32 dwGameDir = 0x63AD80;
-        public const Int32 dwGameRulesProxy = 0x532F4CC;
+        public const Int32 dwGameRulesProxy = 0x532F4AC;
         public const Int32 dwGetAllClasses = 0xE0BFDC;
-        public const Int32 dwGlobalVars = 0x59EE58;
-        public const Int32 dwGlowObjectManager = 0x535A9D8;
-        public const Int32 dwInput = 0x525D4E8;
+        public const Int32 dwGlobalVars = 0x59EE60;
+        public const Int32 dwGlowObjectManager = 0x535A9C8;
+        public const Int32 dwInput = 0x525D4C8;
         public const Int32 dwInterfaceLinkList = 0x99BC84;
         public const Int32 dwLocalPlayer = 0xDEA964;
-        public const Int32 dwMouseEnable = 0x5239148;
-        public const Int32 dwMouseEnablePtr = 0x5239118;
-        public const Int32 dwPlayerResource = 0x322C0C0;
-        public const Int32 dwRadarBase = 0x52369EC;
+        public const Int32 dwMouseEnable = 0x5239128;
+        public const Int32 dwMouseEnablePtr = 0x52390F8;
+        public const Int32 dwPlayerResource = 0x322C0A0;
+        public const Int32 dwRadarBase = 0x52369CC;
         public const Int32 dwSetClanTag = 0x8DA80;
-        public const Int32 dwViewMatrix = 0x4DF0D44;
-        public const Int32 dwWeaponTable = 0x525E5C4;
+        public const Int32 dwViewMatrix = 0x4DF0D24;
+        public const Int32 dwWeaponTable = 0x525E5A4;
         public const Int32 dwWeaponTableIndex = 0x326C;
-        public const Int32 dwbSendPackets = 0xDD072;
+        public const Int32 dwbSendPackets = 0xDD2B2;
         public const Int32 dwppDirect3DDevice9 = 0xA62C0;
-        public const Int32 find_hud_element = 0x51A1FBD0;
+        public const Int32 find_hud_element = 0x28C2FBD0;
         public const Int32 force_update_spectator_glow = 0x3D91CA;
         public const Int32 interface_engine_cvar = 0x3FA9C;
         public const Int32 is_c4_owner = 0x3E69E0;
@@ -152,8 +152,8 @@ namespace hazedumper
         public const Int32 m_bIsLocalPlayer = 0x3628;
         public const Int32 m_flSpawnTime = 0x103C0;
         public const Int32 m_pStudioHdr = 0x2950;
-        public const Int32 m_pitchClassPtr = 0x5239040;
-        public const Int32 model_ambient_min = 0x5A118C;
+        public const Int32 m_pitchClassPtr = 0x5239020;
+        public const Int32 model_ambient_min = 0x5A1194;
         public const Int32 set_abs_angles = 0x1E72D0;
         public const Int32 set_abs_origin = 0x1E7110;
     }
